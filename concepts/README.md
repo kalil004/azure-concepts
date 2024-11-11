@@ -1,7 +1,3 @@
-# Computação em Nuvem 🌥️
-
-Este repositório contém uma introdução aos principais conceitos de Computação em Nuvem, seus modelos de serviço e implantação, além das vantagens e desafios associados.
-
 ## Conceitos Principais
 
 A **Computação em Nuvem** é o fornecimento de recursos de computação (como servidores, armazenamento, bancos de dados, redes, software, etc.) pela internet ("a nuvem"), permitindo escalabilidade, flexibilidade e redução de custos.
